@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://uy.linkedin.com/in/emiliano-vanzini-3b9b0a255)
 [![Email](https://img.shields.io/badge/Email-FF4B6E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emivan12@gmail.com)
-[![Travel Plan](https://img.shields.io/badge/Travel_App-FF4B6E?style=for-the-badge&logo=appstore&logoColor=white)](https://travel-wishlist.com)
+[![Travel Plan](https://img.shields.io/badge/Travel_Plan-FF4B6E?style=for-the-badge&logo=appstore&logoColor=white)](https://travel-wishlist.com)
 
 </div>
 
